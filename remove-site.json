@@ -1,7 +1,7 @@
 {
   "data": [
     {
-        "blkom": "blkom",
+        "blkom": "" ,
          "animeiat": "",
          "xsanime": "",
          "toons": "",
@@ -10,7 +10,7 @@
          "animezid": "",
          "anime4up": "",
          "witanime": "witanime",
-          "fasel": ""
+          "fasel": "fasel"
     }
 ]
   }   
