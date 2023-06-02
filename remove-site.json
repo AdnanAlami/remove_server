@@ -1,4 +1,6 @@
-[   {
+{
+  "data": [
+    {
         "blkom": "",
          "animeiat": "",
          "xsanime": "",
@@ -11,3 +13,4 @@
           "fasel": ""
     }
 ]
+     }
