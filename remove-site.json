@@ -1,26 +1,26 @@
 {
-  "data": [
-    {
-      "blkom": "",
-      "anime3rb": "",
-      "animeiat": "",
-      "animeday": "",
-      "xsanime": "xsanime",
-      "toons": "",
-      "egydead": "",
-      "cima4u": "cima4u",
-      "stardima": "",
-      "cartoon": "",
-      "animezid": "",
-      "anime4up": "",
-      "oldakwam": "",
-      "oldcartoon": "oldcartoon",
-      "oldcartooninfo": "",
-      "oldcartoonsearch": "",
-      "arabanime": "",
-      "cinema": "",
-      "witanime": "witanime",
-      "fasel": ""
-    }
-  ]
+    "data": [
+        {
+            "blkom": "",
+            "anime3rb": "",
+            "animeiat": "",
+            "animeday": "",
+            "xsanime": "xsanime",
+            "toons": "",
+            "egydead": "",
+            "cima4u": "cima4u",
+            "stardima": "",
+            "cartoon": "",
+            "animezid": "",
+            "anime4up": "",
+            "oldakwam": "",
+            "oldcartoon": "",
+            "oldcartooninfo": "",
+            "oldcartoonsearch": "",
+            "arabanime": "",
+            "cinema": "",
+            "witanime": "witanime",
+            "fasel": ""
+        }
+    ]
 }
